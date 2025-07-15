@@ -1,4 +1,5 @@
 # Taller 5 - Festivos
+## Importante: Al momento de clonar el repositorio se sugiere usar el comando: git clone --recursive 'url' para que se se inicialice y actualice automáticamente cada submódulo en el repositorio
 
 ## BackEnd
 
